@@ -76,7 +76,7 @@ a:hover{
 
 .social-media li{
     font-size: .75em;
-    display: inline;
+    display: block;
 }
 .social-media ul{
     padding: 0.3rem;
